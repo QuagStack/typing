@@ -1,2 +1,2 @@
 # typing
- Basic Angular Project Meant To Show Some Basic Concepts.
+ Basic Angular project meant to show some basic concepts. In this application, I showcase event binding as well as dynamic attribute binding.
